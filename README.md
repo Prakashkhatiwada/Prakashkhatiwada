@@ -17,6 +17,7 @@ I'm a versatile developer experienced in both front-end and back-end technologie
 
 ## 🌐 Connect with Me
 - [Twitter](/)
+- [Inatagram](https://www.instagram.com/?hl=en)
 - [Facebook:](https://www.facebook.com/prakash.khatiwada.969300)
 - [Email:] khaiwada614@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/prakash-khatiwada-574a92220/)
