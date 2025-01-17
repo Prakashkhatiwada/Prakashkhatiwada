@@ -1,4 +1,4 @@
-
+![Developer at Work](https://via.placeholder.com/800x400?text=Developer+at+Work)
 # Hi there, I'm Prakash Khatiwada! 👋
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with a keen interest in solving problems through code. Here you can find my projects, contributions, and more about my work.
