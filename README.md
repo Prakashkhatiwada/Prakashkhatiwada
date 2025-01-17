@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a keen 
 I'm a versatile developer experienced in both front-end and back-end technologies. I love creating dynamic, responsive web applications and have a strong foundation in HTML, CSS, JavaScript, and various backend technologies.
 
 ## 🔧 Technologies & Tools
-- **Front-end:** HTML, CSS, JavaScript, React, Angular
-- **Back-end:** Node.js, Express, Django, Flask
+- **Front-end:** HTML, CSS, JavaScript, React, 
+- **Back-end:** Node.js, Express, 
 - **Databases:** MongoDB, MySQL, PostgreSQL
-- **Tools & Platforms:** Git, Docker, AWS, Heroku
+- **Tools & Platforms:** Git, Docker, AWS,
 
 ## 📈 GitHub Stats
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prakashkhatiwada&show_icons=true&theme=radical)
